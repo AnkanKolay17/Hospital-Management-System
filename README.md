@@ -1,2 +1,2 @@
-# spring-boot-data-jpa-hospital-management-system
-Spring Boot Project to teach Spring Boot Data JPA with real-world Project (Hospital Management System)
+
+Spring Boot Project with Spring Boot Data JPA,spring security,OAuth2 (Hospital Management System)
